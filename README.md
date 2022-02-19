@@ -3,14 +3,18 @@ Music Streaming Service
 This is our new music server, this is a trial as we are testing the system right now and giving all users free access to high quality music.
 
 __________________________________________________________________________________________________________________________________
-
-Link: https://a-network.ca/music
-
-__________________________________________________________________________________________________________________________________
-
-Login Information:
+__LibreSonic Music__
+>Login Information:
 - Username: demo
 - Password: demo
+- Link: https://a-network.ca/music
+
+__________________________________________________________________________________________________________________________________
+__Request Music__
+>Login Information:
+- Username: demo
+- Password: demo
+- Link: https://a-network.ca/request/
 
 __________________________________________________________________________________________________________________________________
 
