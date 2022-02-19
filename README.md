@@ -9,8 +9,8 @@ Link: https://a-network.ca/music
 __________________________________________________________________________________________________________________________________
 
 Login Information:
-Username: demo
-Password: demo
+- Username: demo
+- Password: demo
 
 __________________________________________________________________________________________________________________________________
 
@@ -26,9 +26,11 @@ ________________________________________________________________________________
 
 App Server Settings:
 
-Name: A-Network
-Server Address: https://a-network.ca/music
-Username: demo
-Password: demo
-9
+- Name: A-Network
+- Server Address: https://a-network.ca/music
+- Username: demo
+- Password: demo
+
 __________________________________________________________________________________________________________________________________
+
+Visit Our Main Website For Other Great Services https://a-network.ca/
