@@ -1,1 +1,34 @@
-# LibreSonic
+Music Streaming Service
+
+This is our new music server, this is a trial as we are testing the system right now and giving all users free access to high quality music.
+
+__________________________________________________________________________________________________________________________________
+
+Link: https://a-network.ca/music
+
+__________________________________________________________________________________________________________________________________
+
+Login Information:
+Username: demo
+Password: demo
+
+__________________________________________________________________________________________________________________________________
+
+Android Download Link: 
+https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp&hl=en_CA&gl=US
+
+__________________________________________________________________________________________________________________________________
+
+iOS Download Link: 
+https://apps.apple.com/us/app/play-sub-music-streamer/id955329386
+
+__________________________________________________________________________________________________________________________________
+
+App Server Settings:
+
+Name: A-Network
+Server Address: https://a-network.ca/music
+Username: demo
+Password: demo
+
+__________________________________________________________________________________________________________________________________
