@@ -34,6 +34,14 @@ App Server Settings:
 __________________________________________________________________________________________________________________________________
 
 ![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/0.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/1.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/2.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/3.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/4.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/5.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/6.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/7.jpg?raw=true)
+![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/8.jpg?raw=true)
 
 __________________________________________________________________________________________________________________________________
 
