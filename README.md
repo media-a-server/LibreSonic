@@ -18,12 +18,12 @@ __Request Music__
 
 __________________________________________________________________________________________________________________________________
 
-Android Download Link: 
+>Android Download Link: 
 https://play.google.com/store/apps/details?id=net.sourceforge.subsonic.androidapp&hl=en_CA&gl=US
 
 __________________________________________________________________________________________________________________________________
 
-iOS Download Link: 
+>iOS Download Link: 
 https://apps.apple.com/us/app/play-sub-music-streamer/id955329386
 
 __________________________________________________________________________________________________________________________________
