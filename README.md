@@ -1,4 +1,5 @@
 ![This is an image](https://github.com/media-a-server/LibreSonic/blob/main/MUSIC-ICON-WORDS.png?raw=true)
+
 Music Streaming Service
 
 This is our new music server, this is a trial as we are testing the system right now and giving all users free access to high quality music.
